@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-roberto-garcia-0/branch/master/graph/badge.svg?token=DQC5pJ4JrP)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-roberto-garcia-0)
+
 # demo-spring-react-example-v2: dsre-v2
 
 Storybook is here:
@@ -13,7 +15,7 @@ If these repos are not yet setup, see the setup steps in [`docs/storybook.md`](d
 Before running the application for the first time,
 you need to do the steps documented in [`docs/oauth.md`](docs/oauth.md).
 
-Otherwise, when you try to login for the first time, you 
+Otherwise, when you try to login for the first time, you
 will likely see an error such as:
 
 <img src="https://user-images.githubusercontent.com/1119017/149858436-c9baa238-a4f7-4c52-b995-0ed8bee97487.png" alt="Authorization Error; Error 401: invalid_client; The OAuth client was not found." width="400"/>
@@ -22,7 +24,7 @@ will likely see an error such as:
 
 * Open *two separate terminal windows*  
 * In the first window, start up the backend with:
-  ``` 
+  ```
   mvn spring-boot:run
   ```
 * In the second window:
